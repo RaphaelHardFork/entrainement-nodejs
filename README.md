@@ -14,12 +14,12 @@ Création du Repository sur GitHub :
   ```git add .```  
   Pour ajouter aussi les fichiers .gitignore et package.json  
     
-    Puis procédure classique
+Puis procédure classique
 
 
        
          
-         Code a rajouter dans le fichier .gitignore :  
+Code a rajouter dans le fichier .gitignore :  
 ```# Logs
 logs
 *.log
