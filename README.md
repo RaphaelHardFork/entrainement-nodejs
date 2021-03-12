@@ -13,10 +13,11 @@ Création du Repository sur GitHub :
 ```git init```  
   ```git add .```  
   Pour ajouter aussi les fichiers .gitignore et package.json  
-    
-Puis procédure classique
+*Puis procédure classique*  
 
 
+## Ajouter des packages :  
+```yarn add package_name```  
        
          
 Code a rajouter dans le fichier .gitignore :  
@@ -135,4 +136,4 @@ dist
 .yarn/unplugged
 .yarn/build-state.yml
 .yarn/install-state.gz
-.pnp.*```
+.pnp.* ```
